@@ -15,6 +15,7 @@ How many mole hills are in your gardens?
 # Example
 
 # Input
+<pre>
 ................\
 ................\
 ..+----------+..\
@@ -31,6 +32,7 @@ How many mole hills are in your gardens?
 ................\
 ................\
 ................\
+</pre>
 
 # Output
 2
