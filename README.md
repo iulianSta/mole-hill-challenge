@@ -12,9 +12,9 @@ How many mole hills are in your gardens?
 - Everything that touches the outside of the map and is not enclosed in fences is other space. A fence is always between garden space and other space.
 - Mole hills cannot be on fences.
 
-# Example
+## Example
 
-# Input
+### Input
 <pre>
 ................\
 ................\
@@ -34,7 +34,7 @@ How many mole hills are in your gardens?
 ................\
 </pre>
 
-# Output
+### Output
 2
 
 ## Explanation
