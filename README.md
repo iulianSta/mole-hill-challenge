@@ -36,3 +36,10 @@ How many mole hills are in your gardens?
 
 # Output
 2
+
+## Explanation
+
+The answer is in the answer.py file.\
+
+
+
